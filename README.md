@@ -8,3 +8,6 @@
 
 
 |2025-04-17 | count qual and divisible paris in an array | Easy | countequalanddivisibleparisinanarray.java | (https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/?envType=daily-question&envId=2025-04-17)
+
+
+|2025-04-19 | ( https://leetcode.com/problems/count-the-number-of-fair-pairs/description/?envType=daily-question&envId=2025-04-19)
