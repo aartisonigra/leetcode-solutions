@@ -11,3 +11,5 @@
 
 
 |2025-04-19 | ( https://leetcode.com/problems/count-the-number-of-fair-pairs/description/?envType=daily-question&envId=2025-04-19)
+
+|2025-04-20 | (https://leetcode.com/problems/rabbits-in-forest/description/?envType=daily-question&envId=2025-04-20 )
