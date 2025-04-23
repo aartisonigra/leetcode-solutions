@@ -15,3 +15,5 @@
 |2025-04-20 | (https://leetcode.com/problems/rabbits-in-forest/description/?envType=daily-question&envId=2025-04-20 )
 
 |2025-04-22 | (https://leetcode.com/problems/count-the-number-of-ideal-arrays/?envType=daily-question&envId=2025-04-22 )
+
+|2025-04-23 | (https://leetcode.com/problems/count-largest-group/?envType=daily-question&envId=2025-04-23)
