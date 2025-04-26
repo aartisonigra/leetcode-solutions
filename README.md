@@ -19,3 +19,5 @@
 |2025-04-23 | (https://leetcode.com/problems/count-largest-group/?envType=daily-question&envId=2025-04-23)
 
 |2025-04-24 | (https://leetcode.com/problems/count-complete-subarrays-in-an-array/?envType=daily-question&envId=2025-04-24)
+
+|2025-04-26 | (https://leetcode.com/problems/count-subarrays-with-fixed-bounds/?envType=daily-question&envId=2025-04-26)
