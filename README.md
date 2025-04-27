@@ -21,3 +21,5 @@
 |2025-04-24 | (https://leetcode.com/problems/count-complete-subarrays-in-an-array/?envType=daily-question&envId=2025-04-24)
 
 |2025-04-26 | (https://leetcode.com/problems/count-subarrays-with-fixed-bounds/?envType=daily-question&envId=2025-04-26)
+
+|2025-04-27 | (https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/submissions/1619025809/?envType=daily-question&envId=2025-04-27)
