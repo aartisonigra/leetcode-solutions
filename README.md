@@ -26,3 +26,5 @@
 
 
 |2025-04-29 | (https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/?envType=daily-question&envId=2025-04-29)
+
+|2025-04-30 | (https://leetcode.com/problems/find-numbers-with-even-number-of-digits/?envType=daily-question&envId=2025-04-30)
