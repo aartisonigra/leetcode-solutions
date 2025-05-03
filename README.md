@@ -32,3 +32,5 @@
 |2025-05-01 | (https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/?envType=daily-question&envId=2025-05-01)
 
 |2025-05-02 | (https://leetcode.com/problems/push-dominoes/?envType=daily-question&envId=2025-05-02)
+
+|2025-05-03 | (https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/?envType=daily-question&envId=2025-05-03)
