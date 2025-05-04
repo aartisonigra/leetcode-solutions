@@ -34,3 +34,5 @@
 |2025-05-02 | (https://leetcode.com/problems/push-dominoes/?envType=daily-question&envId=2025-05-02)
 
 |2025-05-03 | (https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/?envType=daily-question&envId=2025-05-03)
+
+|2025-05-04| (https://leetcode.com/problems/number-of-equivalent-domino-pairs/?envType=daily-question&envId=2025-05-04)
