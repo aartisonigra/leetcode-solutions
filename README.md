@@ -38,3 +38,5 @@
 |2025-05-04| (https://leetcode.com/problems/number-of-equivalent-domino-pairs/?envType=daily-question&envId=2025-05-04)
 
 |2025-05-05 | (https://leetcode.com/problems/domino-and-tromino-tiling/?envType=daily-question&envId=2025-05-05)
+
+|2025-05-06 | (https://leetcode.com/problems/build-array-from-permutation/?envType=daily-question&envId=2025-05-06)
