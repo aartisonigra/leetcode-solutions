@@ -42,3 +42,5 @@
 |2025-05-06 | (https://leetcode.com/problems/build-array-from-permutation/?envType=daily-question&envId=2025-05-06)
 
 |2025-05-07 | (https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i/?envType=daily-question&envId=2025-05-07)
+
+|2025-05-08 | (https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/?envType=daily-question&envId=2025-05-08)
