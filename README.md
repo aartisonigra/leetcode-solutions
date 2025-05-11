@@ -46,3 +46,5 @@
 |2025-05-08 | (https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/?envType=daily-question&envId=2025-05-08)
 
 |2025-05-10 | (https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros/?envType=daily-question&envId=2025-05-10)
+
+|2025-05-11 | (https://leetcode.com/problems/three-consecutive-odds/?envType=daily-question&envId=2025-05-11)
