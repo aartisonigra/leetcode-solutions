@@ -1,0 +1,41 @@
+PROBLEAMS:
+
+Given an integer array arr, return true if there are three consecutive odd numbers in the array. Otherwise, return false.
+ 
+
+Example 1:
+
+Input: arr = [2,6,4,1]
+Output: false
+Explanation: There are no three consecutive odds.
+Example 2:
+
+Input: arr = [1,2,34,3,4,5,7,23,12]
+Output: true
+Explanation: [5,7,23] are three consecutive odds.
+
+SOLUTIONS:
+
+class solutions{
+  public boolean threeConsecutiveOdds(int[] arr){
+    //integer array he true ya flse return krega
+    int count = 0;
+    //count krega odd number ko
+
+    for(int num : arr){
+      //for loop he elements (nums)  ko aek aek krega
+      if(num % 2 != 0){
+        //number 2 se divide khi hota
+        count++;
+        //count 1 bdha tahe
+        if(count == 3) return true;
+        //3 odd number return krega
+      }else{
+        count = 0;
+        //number even count 0 krdega
+      }
+    }
+    return false;
+    //ae check krega in integer3  number odd he ki nai nai he to false return krga
+  }
+}
