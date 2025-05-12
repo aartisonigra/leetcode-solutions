@@ -48,3 +48,5 @@
 |2025-05-10 | (https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros/?envType=daily-question&envId=2025-05-10)
 
 |2025-05-11 | (https://leetcode.com/problems/three-consecutive-odds/?envType=daily-question&envId=2025-05-11)
+
+|2025-05-12 | (https://leetcode.com/problems/finding-3-digit-even-numbers/?envType=daily-question&envId=2025-05-12)
