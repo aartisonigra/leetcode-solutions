@@ -1,0 +1,79 @@
+PROBELMS:
+
+ou are given a string array words and a binary array groups both of length n, where words[i] is associated with groups[i].
+
+Your task is to select the longest alternating subsequence from words. A subsequence of words is alternating if for any two consecutive strings in the sequence, their corresponding elements in the binary array groups differ. Essentially, you are to choose strings such that adjacent elements have non-matching corresponding bits in the groups array.
+
+Formally, you need to find the longest subsequence of an array of indices [0, 1, ..., n - 1] denoted as [i0, i1, ..., ik-1], such that groups[ij] != groups[ij+1] for each 0 <= j < k - 1 and then find the words corresponding to these indices.
+
+Return the selected subsequence. If there are multiple answers, return any of them.
+
+Note: The elements in words are distinct.
+
+ 
+
+Example 1:
+
+Input: words = ["e","a","b"], groups = [0,0,1]
+
+Output: ["e","b"]
+
+Explanation: A subsequence that can be selected is ["e","b"] because groups[0] != groups[2]. Another subsequence that can be selected is ["a","b"] because groups[1] != groups[2]. It can be demonstrated that the length of the longest subsequence of indices that satisfies the condition is 2.
+
+Example 2:
+
+Input: words = ["a","b","c","d"], groups = [1,0,1,1]
+
+Output: ["a","b","c"]
+
+Explanation: A subsequence that can be selected is ["a","b","c"] because groups[0] != groups[1] and groups[1] != groups[2]. Another subsequence that can be selected is ["a","b","d"] because groups[0] != groups[1] and groups[1] != groups[3]. It can be shown that the length of the longest subsequence of indices that satisfies the condition is 3.
+
+
+SOLUTIONS:
+class Solution {
+
+    public List<String> getLongestSubsequence(String[] words, int[] groups) {
+     // word[] : word ki list
+      //groups[] : har word ka assciated binary group( 0 and 1)
+        
+        int n = words.length;
+        int[] dp = new int[n];
+        int[] prev = new int[n];
+        int maxLen = 1, endIndex = 0;
+
+      //n :word ki length
+      //dp[i] : index i par khtm hona wale logest alternating subsequence ki length
+      //max len :  abhi tak sbshe lbi length
+      //endindex: index jha subse lbasubsequence ktam hota he
+
+        for (int i = 0; i < n; i++) {
+            dp[i] = 1;
+            prev[i] = -1;
+        }
+      //dp[i] = 1 
+      //prev[i] = -1
+        for (int i = 1; i < n; i++) {
+            int bestLen = 1;
+            int bestPrev = -1;
+            for (int j = i - 1; j >= 0; j--) {
+                if (groups[i] != groups[j] && dp[j] + 1 > bestLen) {
+                    bestLen = dp[j] + 1;
+                    bestPrev = j;
+                }
+            }
+            dp[i] = bestLen;
+            prev[i] = bestPrev;
+            if (dp[i] > maxLen) {
+                maxLen = dp[i];
+                endIndex = i;
+            }
+        }
+
+        List<String> res = new ArrayList<>();
+        for (int i = endIndex; i != -1; i = prev[i]) {
+            res.add(words[i]);
+        }
+        Collections.reverse(res);
+        return res;
+    }
+}
