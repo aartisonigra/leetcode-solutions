@@ -52,3 +52,5 @@
 |2025-05-12 | (https://leetcode.com/problems/finding-3-digit-even-numbers/?envType=daily-question&envId=2025-05-12)
 
 | 2025-05-13 | (https://leetcode.com/problems/total-characters-in-string-after-transformations-i/?envType=daily-question&envId=2025-05-13)
+
+|2025-05-18 | (https://leetcode.com/problems/painting-a-grid-with-three-different-colors/?envType=daily-question&envId=2025-05-18)
