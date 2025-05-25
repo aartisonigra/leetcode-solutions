@@ -1,0 +1,74 @@
+PROBELAMS:
+
+You are given an array of strings words. Each element of words consists of two lowercase English letters.
+
+Create the longest possible palindrome by selecting some elements from words and concatenating them in any order. Each element can be selected at most once.
+
+Return the length of the longest palindrome that you can create. If it is impossible to create any palindrome, return 0.
+
+A palindrome is a string that reads the same forward and backward.
+
+ 
+
+Example 1:
+
+Input: words = ["lc","cl","gg"]
+Output: 6
+Explanation: One longest palindrome is "lc" + "gg" + "cl" = "lcggcl", of length 6.
+Note that "clgglc" is another longest palindrome that can be created.
+Example 2:
+
+Input: words = ["ab","ty","yt","lc","cl","ab"]
+Output: 8
+Explanation: One longest palindrome is "ty" + "lc" + "cl" + "yt" = "tylcclyt", of length 8.
+Note that "lcyttycl" is another longest palindrome that can be created.
+Example 3:
+
+Input: words = ["cc","ll","xx"]
+Output: 2
+Explanation: One longest palindrome is "cc", of length 2.
+Note that "ll" is another longest palindrome that can be created, and so is "xx".
+
+  SOLUTIONS:
+
+import java.util.HashMap;
+import java.util.Map;
+
+class Solution {
+    public int longestPalindrome(String[] words) {
+        Map<String, Integer> freq = new HashMap<>();
+        int length = 0;
+        boolean hasCenter = false;
+
+        // Step 1: Count frequency of each word
+        for (String word : words) {
+            freq.put(word, freq.getOrDefault(word, 0) + 1);
+        }
+
+        // Step 2: Process each word
+        for (String word : freq.keySet()) {
+            String rev = new StringBuilder(word).reverse().toString();
+
+            if (!word.equals(rev)) {
+                // Pair with its reverse
+                if (freq.containsKey(rev)) {
+                    int pairs = Math.min(freq.get(word), freq.get(rev));
+                    length += 4 * pairs;
+                    freq.put(word, freq.get(word) - pairs);
+                    freq.put(rev, freq.get(rev) - pairs);
+                }
+            } else {
+                // The word is itself a palindrome like "gg", "cc"
+                int count = freq.get(word);
+                length += 4 * (count / 2);  // Use in pairs
+                if (count % 2 == 1) hasCenter = true; // One can be in center
+            }
+        }
+
+        // Step 3: Add center if any palindromic word is left
+        if (hasCenter) length += 2;
+
+        return length;
+    }
+}
+
