@@ -54,3 +54,6 @@
 | 2025-05-13 | (https://leetcode.com/problems/total-characters-in-string-after-transformations-i/?envType=daily-question&envId=2025-05-13)
 
 |2025-05-18 | (https://leetcode.com/problems/painting-a-grid-with-three-different-colors/?envType=daily-question&envId=2025-05-18)
+
+
+|2025-06-05 | (https://leetcode.com/problems/lexicographically-smallest-equivalent-string/?envType=daily-question&envId=2025-06-05)
