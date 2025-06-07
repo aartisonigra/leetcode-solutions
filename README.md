@@ -57,3 +57,6 @@
 
 
 |2025-06-05 | (https://leetcode.com/problems/lexicographically-smallest-equivalent-string/?envType=daily-question&envId=2025-06-05)
+
+
+|2025-06-07 | (https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/?envType=daily-question&envId=2025-06-07)
