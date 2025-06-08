@@ -60,3 +60,5 @@
 
 
 |2025-06-07 | (https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/?envType=daily-question&envId=2025-06-07)
+
+|2025-06-08 | (https://leetcode.com/problems/lexicographical-numbers/?envType=daily-question&envId=2025-06-08)
