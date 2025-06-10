@@ -64,3 +64,5 @@
 |2025-06-08 | (https://leetcode.com/problems/lexicographical-numbers/?envType=daily-question&envId=2025-06-08)
 
 | 2025-06-09 | (https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/?envType=daily-question&envId=2025-06-09)
+
+|2025-06-10 | (https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/?envType=daily-question&envId=2025-06-10)
