@@ -80,3 +80,5 @@
 |2025-06-19 | (https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/?envType=daily-question&envId=2025-06-19)
 
 |2025-07-02 | (https://leetcode.com/problems/find-the-original-typed-string-ii/?envType=daily-question&envId=2025-07-02)
+
+|2025-07-03 | (https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/?envType=daily-question&envId=2025-07-03)
