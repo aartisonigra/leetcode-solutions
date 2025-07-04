@@ -82,3 +82,5 @@
 |2025-07-02 | (https://leetcode.com/problems/find-the-original-typed-string-ii/?envType=daily-question&envId=2025-07-02)
 
 |2025-07-03 | (https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/?envType=daily-question&envId=2025-07-03)
+
+|2025-07-04 | (https://leetcode.com/problems/find-the-k-th-character-in-string-game-ii/?envType=daily-question&envId=2025-07-04)
