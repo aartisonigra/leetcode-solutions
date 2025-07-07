@@ -86,3 +86,6 @@
 |2025-07-04 | (https://leetcode.com/problems/find-the-k-th-character-in-string-game-ii/?envType=daily-question&envId=2025-07-04)
 
 |2025-07-05 | (https://leetcode.com/problems/find-lucky-integer-in-an-array/?envType=daily-question&envId=2025-07-05)
+
+
+|2025-07-07 | (https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/?envType=daily-question&envId=2025-07-07)
