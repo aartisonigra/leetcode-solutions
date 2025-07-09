@@ -89,3 +89,5 @@
 
 
 |2025-07-07 | (https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/?envType=daily-question&envId=2025-07-07)
+
+|2025-07-09 | (https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-i/?envType=daily-question&envId=2025-07-09)
