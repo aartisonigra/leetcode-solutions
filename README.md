@@ -101,3 +101,5 @@
 |2025-07-13 | (https://leetcode.com/problems/maximum-matching-of-players-with-trainers/?envType=daily-question&envId=2025-07-13)
 
 |2025-07-14 | (https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/?envType=daily-question&envId=2025-07-14)
+
+|2025-07-15 | (https://leetcode.com/problems/valid-word/?envType=daily-question&envId=2025-07-15)
