@@ -105,3 +105,5 @@
 |2025-07-15 | (https://leetcode.com/problems/valid-word/?envType=daily-question&envId=2025-07-15)
 
 |2025-07-17 | (https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-ii/?envType=daily-question&envId=2025-07-17)
+
+|2025-07-18 | (https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements/?envType=daily-question&envId=2025-07-18)
