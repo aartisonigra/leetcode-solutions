@@ -109,3 +109,5 @@
 |2025-07-18 | (https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements/?envType=daily-question&envId=2025-07-18)
 
 |2025-07-19 | (https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/?envType=daily-question&envId=2025-07-19)
+
+|2025-07-20 | (https://leetcode.com/problems/delete-duplicate-folders-in-system/?envType=daily-question&envId=2025-07-20)
