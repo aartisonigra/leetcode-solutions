@@ -1,0 +1,57 @@
+A fancy string is a string where no three consecutive characters are equal.
+
+Given a string s, delete the minimum possible number of characters from s to make it fancy.
+
+Return the final string after the deletion. It can be shown that the answer will always be unique.
+
+ 
+
+Example 1:
+
+Input: s = "leeetcode"
+Output: "leetcode"
+Explanation:
+Remove an 'e' from the first group of 'e's to create "leetcode".
+No three consecutive characters are equal, so return "leetcode".
+Example 2:
+
+Input: s = "aaabaaaa"
+Output: "aabaa"
+Explanation:
+Remove an 'a' from the first group of 'a's to create "aabaaaa".
+Remove two 'a's from the second group of 'a's to create "aabaa".
+No three consecutive characters are equal, so return "aabaa".
+Example 3:
+
+Input: s = "aab"
+Output: "aab"
+Explanation: No three consecutive characters are equal, so return "aab".
+
+
+  SOLUTIONS:
+class Solution {
+
+    public String makeFancyString(String s) {
+        char prev = s.charAt(0);
+        int frequency = 1;
+        StringBuilder ans = new StringBuilder();
+        ans.append(s.charAt(0));
+        for (int i = 1; i < s.length(); i++) {
+            if (s.charAt(i) == prev) {
+                // If the current character is equal to the previous character, increment the
+                // frequency.
+                frequency++;
+            } else {
+                // Otherwise, we can restart the frequency counter with 1, and store the current
+                // character's value in prev.
+                prev = s.charAt(i);
+                frequency = 1;
+            }
+            // If the frequency counter has value less than 3, add the character to the
+            // answer string.
+            if (frequency < 3) ans.append(s.charAt(i));
+        }
+        return ans.toString();
+    }
+}
+
