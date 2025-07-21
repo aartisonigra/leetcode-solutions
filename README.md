@@ -111,3 +111,5 @@
 |2025-07-19 | (https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/?envType=daily-question&envId=2025-07-19)
 
 |2025-07-20 | (https://leetcode.com/problems/delete-duplicate-folders-in-system/?envType=daily-question&envId=2025-07-20)
+
+|2025-07-21 | (https://leetcode.com/problems/delete-characters-to-make-fancy-string/?envType=daily-question&envId=2025-07-21)
