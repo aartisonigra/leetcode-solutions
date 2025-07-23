@@ -115,3 +115,5 @@
 |2025-07-21 | (https://leetcode.com/problems/delete-characters-to-make-fancy-string/?envType=daily-question&envId=2025-07-21)
 
 |2025-07-22 | (https://leetcode.com/problems/maximum-erasure-value/?envType=daily-question&envId=2025-07-22)
+
+|2025-07-23 | (https://leetcode.com/problems/maximum-score-from-removing-substrings/?envType=daily-question&envId=2025-07-23&roomId=IUSCJm)
