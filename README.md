@@ -121,3 +121,5 @@
 |2025-07-24 | (https://leetcode.com/problems/minimum-score-after-removals-on-a-tree/?envType=daily-question&envId=2025-07-24)
 
 | 2025-07-25 | (https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/?envType=daily-question&envId=2025-07-25)
+
+|2025-07-26 | (https://leetcode.com/problems/maximize-subarrays-after-removing-one-conflicting-pair/?envType=daily-question&envId=2025-07-26)
