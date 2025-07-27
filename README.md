@@ -123,3 +123,6 @@
 | 2025-07-25 | (https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/?envType=daily-question&envId=2025-07-25)
 
 |2025-07-26 | (https://leetcode.com/problems/maximize-subarrays-after-removing-one-conflicting-pair/?envType=daily-question&envId=2025-07-26)
+
+
+|2025-07-27 | (https://leetcode.com/problems/count-hills-and-valleys-in-an-array/?envType=daily-question&envId=2025-07-27)
