@@ -126,3 +126,5 @@
 
 
 |2025-07-27 | (https://leetcode.com/problems/count-hills-and-valleys-in-an-array/?envType=daily-question&envId=2025-07-27)
+
+|2025-07-28 | (https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/?envType=daily-question&envId=2025-07-28)
