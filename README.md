@@ -136,3 +136,5 @@
 |2025-07-31 | (https://leetcode.com/problems/bitwise-ors-of-subarrays/?envType=daily-question&envId=2025-07-31))
 
 |2025-08-02 | (https://leetcode.com/problems/number-of-recent-calls/?envType=study-plan-v2&envId=leetcode-75)
+
+|2025-08-03 | (https://leetcode.com/problems/single-number/?envType=study-plan-v2&envId=leetcode-75)
