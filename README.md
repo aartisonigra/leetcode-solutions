@@ -138,3 +138,5 @@
 |2025-08-02 | (https://leetcode.com/problems/number-of-recent-calls/?envType=study-plan-v2&envId=leetcode-75)
 
 |2025-08-03 | (https://leetcode.com/problems/single-number/?envType=study-plan-v2&envId=leetcode-75)
+
+|2025-08-04 | (https://leetcode.com/problems/fruit-into-baskets/?envType=daily-question&envId=2025-08-04)
