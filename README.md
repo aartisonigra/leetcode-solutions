@@ -144,3 +144,5 @@
 |2025-08-05 | (https://leetcode.com/problems/fruits-into-baskets-ii/?envType=daily-question&envId=2025-08-05)
 
 |2025-08-07 | (https://leetcode.com/problems/search-in-a-binary-search-tree/?envType=study-plan-v2&envId=leetcode-75)
+
+|2025-08-08 | (https://leetcode.com/problems/soup-servings/?envType=daily-question&envId=2025-08-08)
