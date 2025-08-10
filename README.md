@@ -148,3 +148,5 @@
 |2025-08-08 | (https://leetcode.com/problems/soup-servings/?envType=daily-question&envId=2025-08-08)
 
 |2025-08-09 | (https://leetcode.com/problems/power-of-two/?envType=daily-question&envId=2025-08-09)
+
+|2025-08-10 | (https://leetcode.com/problems/leaf-similar-trees/?envType=study-plan-v2&envId=leetcode-75)
