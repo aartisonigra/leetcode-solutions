@@ -150,3 +150,5 @@
 |2025-08-09 | (https://leetcode.com/problems/power-of-two/?envType=daily-question&envId=2025-08-09)
 
 |2025-08-10 | (https://leetcode.com/problems/leaf-similar-trees/?envType=study-plan-v2&envId=leetcode-75)
+
+|2025-08-11 | (https://leetcode.com/problems/n-th-tribonacci-number/?envType=study-plan-v2&envId=leetcode-75)
