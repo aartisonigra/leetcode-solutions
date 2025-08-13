@@ -154,3 +154,5 @@
 |2025-08-11 | (https://leetcode.com/problems/n-th-tribonacci-number/?envType=study-plan-v2&envId=leetcode-75)
 
 |2025-08-12 | (https://leetcode.com/problems/counting-bits/?envType=study-plan-v2&envId=leetcode-75)
+
+|2025-08-13 | (https://leetcode.com/problems/power-of-three/?envType=daily-question&envId=2025-08-13)
