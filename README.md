@@ -156,3 +156,5 @@
 |2025-08-12 | (https://leetcode.com/problems/counting-bits/?envType=study-plan-v2&envId=leetcode-75)
 
 |2025-08-13 | (https://leetcode.com/problems/power-of-three/?envType=daily-question&envId=2025-08-13)
+
+|2025-08-14 | (https://leetcode.com/problems/largest-3-same-digit-number-in-string/?envType=daily-question&envId=2025-08-14)
