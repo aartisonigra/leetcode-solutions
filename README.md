@@ -158,3 +158,5 @@
 |2025-08-13 | (https://leetcode.com/problems/power-of-three/?envType=daily-question&envId=2025-08-13)
 
 |2025-08-14 | (https://leetcode.com/problems/largest-3-same-digit-number-in-string/?envType=daily-question&envId=2025-08-14)
+
+|2025-08-15 | (https://leetcode.com/problems/power-of-four/submissions/1736171472/?envType=daily-question&envId=2025-08-15)
