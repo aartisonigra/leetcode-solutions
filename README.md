@@ -160,3 +160,5 @@
 |2025-08-14 | (https://leetcode.com/problems/largest-3-same-digit-number-in-string/?envType=daily-question&envId=2025-08-14)
 
 |2025-08-15 | (https://leetcode.com/problems/power-of-four/submissions/1736171472/?envType=daily-question&envId=2025-08-15)
+
+|2025-08-16 | (https://leetcode.com/problems/maximum-69-number/?envType=daily-question&envId=2025-08-16)
