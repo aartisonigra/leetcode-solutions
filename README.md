@@ -162,3 +162,5 @@
 |2025-08-15 | (https://leetcode.com/problems/power-of-four/submissions/1736171472/?envType=daily-question&envId=2025-08-15)
 
 |2025-08-16 | (https://leetcode.com/problems/maximum-69-number/?envType=daily-question&envId=2025-08-16)
+
+|2025-08-17 | (https://leetcode.com/problems/new-21-game/?envType=daily-question&envId=2025-08-17)
