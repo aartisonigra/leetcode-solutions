@@ -164,3 +164,5 @@
 |2025-08-16 | (https://leetcode.com/problems/maximum-69-number/?envType=daily-question&envId=2025-08-16)
 
 |2025-08-17 | (https://leetcode.com/problems/new-21-game/?envType=daily-question&envId=2025-08-17)
+
+|2025-08-18 | (https://leetcode.com/problems/24-game/?envType=daily-question&envId=2025-08-18)
