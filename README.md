@@ -166,3 +166,5 @@
 |2025-08-17 | (https://leetcode.com/problems/new-21-game/?envType=daily-question&envId=2025-08-17)
 
 |2025-08-18 | (https://leetcode.com/problems/24-game/?envType=daily-question&envId=2025-08-18)
+
+|2025-08-19  |(https://leetcode.com/problems/number-of-zero-filled-subarrays/?envType=daily-question&envId=2025-08-19)
