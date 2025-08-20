@@ -168,3 +168,5 @@
 |2025-08-18 | (https://leetcode.com/problems/24-game/?envType=daily-question&envId=2025-08-18)
 
 |2025-08-19  |(https://leetcode.com/problems/number-of-zero-filled-subarrays/?envType=daily-question&envId=2025-08-19)
+
+|2025-08-20 | (https://leetcode.com/problems/count-square-submatrices-with-all-ones/?envType=daily-question&envId=2025-08-20)
