@@ -1,0 +1,52 @@
+Given a binary array nums, you should delete one element from it.
+
+Return the size of the longest non-empty subarray containing only 1's in the resulting array. Return 0 if there is no such subarray.
+
+ 
+
+Example 1:
+
+Input: nums = [1,1,0,1]
+Output: 3
+Explanation: After deleting the number in position 2, [1,1,1] contains 3 numbers with value of 1's.
+Example 2:
+
+Input: nums = [0,1,1,1,0,1,1,0,1]
+Output: 5
+Explanation: After deleting the number in position 4, [0,1,1,1,1,1,0,1] longest subarray with value of 1's is [1,1,1,1,1].
+Example 3:
+
+Input: nums = [1,1,1]
+Output: 2
+Explanation: You must delete one element.
+ 
+
+SOLUTIONS:
+
+class Solution {
+    public int longestSubarray(int[] nums) {
+        int zeroCount = 0;      // window में कितने zero हैं
+        int longestWindow = 0;  // at most 1 zero वाली window की max लंबाई
+        int start = 0;          // window का left pointer
+
+        for (int i = 0; i < nums.length; i++) {
+            // 1) include nums[i] in window
+            if (nums[i] == 0) zeroCount++;
+
+            // 2) अगर 1 से ज़्यादा zero हैं, left से window छोटा करो
+            while (zeroCount > 1) {
+                if (nums[start] == 0) zeroCount--;
+                start++;
+            }
+
+            // 3) अब window [start..i] में at most 1 zero है
+            longestWindow = Math.max(longestWindow, i - start + 1);
+        }
+
+        // 4) क्योंकि एक element delete करना compuslory है:
+        //    - अगर window में zero था → वही हटाया
+        //    - अगर zero नहीं था → एक 1 हटेगा
+        // Edge: all zeros पर भी ये 0 ही देगा (सही).
+        return Math.max(0, longestWindow - 1);
+    }
+}
