@@ -176,3 +176,5 @@
 |2025-08-22 | (https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i/?envType=daily-question&envId=2025-08-22)
 
 |2025-08-23 | (https://leetcode.com/problems/daily-temperatures/?envType=study-plan-v2&envId=leetcode-75)
+
+|2025-08-24 | (https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/?envType=daily-question&envId=2025-08-24)
