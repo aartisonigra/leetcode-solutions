@@ -182,3 +182,5 @@
 |2025-08-25  | (https://leetcode.com/problems/diagonal-traverse/?envType=daily-question&envId=2025-08-25)
 
 |2025-08-27 | (https://leetcode.com/problems/number-of-provinces/?envType=study-plan-v2&envId=leetcode-75)
+
+|2025-08-28 | (https://leetcode.com/problems/sort-matrix-by-diagonals/?envType=daily-question&envId=2025-08-28)
