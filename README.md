@@ -190,3 +190,5 @@
 |2025-08-30 | (https://leetcode.com/problems/valid-sudoku/?envType=daily-question&envId=2025-08-30)
 
 |2025-08-31 | (https://leetcode.com/problems/sudoku-solver/?envType=daily-question&envId=2025-08-31)
+
+|2025-09-01 | (https://leetcode.com/problems/maximum-average-pass-ratio/?envType=daily-question&envId=2025-09-01)
