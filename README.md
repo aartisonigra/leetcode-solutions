@@ -192,3 +192,6 @@
 |2025-08-31 | (https://leetcode.com/problems/sudoku-solver/?envType=daily-question&envId=2025-08-31)
 
 |2025-09-01 | (https://leetcode.com/problems/maximum-average-pass-ratio/?envType=daily-question&envId=2025-09-01)
+
+|2025-09-02 | ([
+](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/?envType=daily-question&envId=2025-09-02)
