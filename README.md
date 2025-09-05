@@ -197,3 +197,5 @@
 ](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/?envType=daily-question&envId=2025-09-02)
 
 |2025-09-03 | (https://leetcode.com/problems/kth-largest-element-in-an-array/?envType=study-plan-v2&envId=leetcode-75)
+
+|2025-09-05 | (https://leetcode.com/problems/first-unique-character-in-a-string/?envType=problem-list-v2&envId=prshgx6i)
