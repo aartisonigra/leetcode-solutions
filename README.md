@@ -215,3 +215,5 @@
 |2025-09-13 | (https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/?envType=daily-question&envId=2025-09-13)
 
 |2025-09-14 | (https://leetcode.com/problems/vowel-spellchecker/?envType=daily-question&envId=2025-09-14)
+
+|2025-09-15 | (https://leetcode.com/problems/maximum-number-of-words-you-can-type/?envType=daily-question&envId=2025-09-15)
