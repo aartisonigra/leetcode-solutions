@@ -217,3 +217,5 @@
 |2025-09-14 | (https://leetcode.com/problems/vowel-spellchecker/?envType=daily-question&envId=2025-09-14)
 
 |2025-09-15 | (https://leetcode.com/problems/maximum-number-of-words-you-can-type/?envType=daily-question&envId=2025-09-15)
+
+|2025-09-16 | (https://leetcode.com/problems/unique-paths/?envType=study-plan-v2&envId=leetcode-75)
