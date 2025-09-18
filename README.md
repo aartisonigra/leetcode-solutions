@@ -221,3 +221,5 @@
 |2025-09-16 | (https://leetcode.com/problems/unique-paths/?envType=study-plan-v2&envId=leetcode-75)
 
 |2025-09-17 | (https://leetcode.com/problems/count-the-digits-that-divide-a-number/?envType=problem-list-v2&envId=prshgx6i)
+
+|2025-09-18 | (https://leetcode.com/problems/find-first-palindromic-string-in-the-array/?envType=problem-list-v2&envId=prshgx6i)
