@@ -223,3 +223,6 @@
 |2025-09-17 | (https://leetcode.com/problems/count-the-digits-that-divide-a-number/?envType=problem-list-v2&envId=prshgx6i)
 
 |2025-09-18 | (https://leetcode.com/problems/find-first-palindromic-string-in-the-array/?envType=problem-list-v2&envId=prshgx6i)
+
+|2025-09-19 | ([
+](https://leetcode.com/problems/number-of-employees-who-met-the-target/?envType=problem-list-v2&envId=prshgx6i))
