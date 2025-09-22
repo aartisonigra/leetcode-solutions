@@ -227,3 +227,5 @@
 |2025-09-19 | (https://leetcode.com/problems/number-of-employees-who-met-the-target/?envType=problem-list-v2&envId=prshgx6i)
 
 |2025-09-21 | (https://leetcode.com/problems/design-movie-rental-system/?envType=daily-question&envId=2025-09-21)
+
+|2025-09-22 | (https://leetcode.com/problems/count-elements-with-maximum-frequency/?envType=daily-question&envId=2025-09-22)
