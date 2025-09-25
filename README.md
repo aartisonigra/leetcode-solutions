@@ -231,3 +231,5 @@
 |2025-09-22 | (https://leetcode.com/problems/count-elements-with-maximum-frequency/?envType=daily-question&envId=2025-09-22)
 
 |2025-09-24 | (https://leetcode.com/problems/fraction-to-recurring-decimal/)
+
+|2025-09-25 | (https://leetcode.com/problems/triangle/?envType=daily-question&envId=2025-09-25)
