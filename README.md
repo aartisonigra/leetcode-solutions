@@ -235,3 +235,6 @@
 |2025-09-25 | (https://leetcode.com/problems/triangle/?envType=daily-question&envId=2025-09-25)
 
 |2025-09-28 | (https://leetcode.com/problems/largest-perimeter-triangle/)
+
+|2025-09-30 | ([
+](https://leetcode.com/problems/find-triangular-sum-of-an-array/))
