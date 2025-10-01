@@ -238,3 +238,5 @@
 
 |2025-09-30 | ([
 ](https://leetcode.com/problems/find-triangular-sum-of-an-array/))
+
+|2025-10-01 | (https://leetcode.com/problems/water-bottles/?envType=daily-question&envId=2025-10-01)
