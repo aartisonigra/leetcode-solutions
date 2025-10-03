@@ -240,3 +240,5 @@
 ](https://leetcode.com/problems/find-triangular-sum-of-an-array/))
 
 |2025-10-01 | (https://leetcode.com/problems/water-bottles/?envType=daily-question&envId=2025-10-01)
+
+|2025-10-03 | (https://leetcode.com/problems/trapping-rain-water-ii/?envType=daily-question&envId=2025-10-03)
