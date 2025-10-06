@@ -244,3 +244,5 @@
 |2025-10-03 | (https://leetcode.com/problems/trapping-rain-water-ii/?envType=daily-question&envId=2025-10-03)
 
 |2025-10-04 | (https://leetcode.com/problems/container-with-most-water/?envType=daily-question&envId=Invalid%20Date)
+
+|2025-10-06 | (https://leetcode.com/problems/swim-in-rising-water/?envType=daily-question&envId=2025-10-06)
