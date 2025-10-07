@@ -246,3 +246,5 @@
 |2025-10-04 | (https://leetcode.com/problems/container-with-most-water/?envType=daily-question&envId=Invalid%20Date)
 
 |2025-10-06 | (https://leetcode.com/problems/swim-in-rising-water/?envType=daily-question&envId=2025-10-06)
+
+|2025-110-07 | (https://leetcode.com/problems/avoid-flood-in-the-city/)
