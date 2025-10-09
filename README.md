@@ -248,3 +248,5 @@
 |2025-10-06 | (https://leetcode.com/problems/swim-in-rising-water/?envType=daily-question&envId=2025-10-06)
 
 |2025-110-07 | (https://leetcode.com/problems/avoid-flood-in-the-city/)
+
+|2025-10-09 | (https://leetcode.com/problems/find-the-minimum-amount-of-time-to-brew-potions/?envType=daily-question&envId=2025-10-09)
