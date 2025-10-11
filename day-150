@@ -1,0 +1,97 @@
+Given the root of a binary tree, your task is to find the maximum path sum. The path may start and end at any node in the tree.
+
+Examples:
+
+Input: root[] = [10, 2, 10, 20, 1, N, -25, N, N, N, N, 3, 4]
+Output: 42
+Explanation: Max path sum is represented using green colour nodes in the above binary tree.
+
+Input: root[] = [-17, 11, 4, 20, -2, 10]
+Output: 31
+Explanation: Max path sum is represented using green colour nodes in the above binary tree.
+
+Constraints:
+1 ≤ number of nodes ≤ 103
+-104 ≤ node->data ≤ 104
+
+Expected Complexities
+Company Tags
+FlipkartGoogleFacebook
+Topic Tags
+Related Interview Experiences
+Related Articles
+Java (21)
+
+
+
+}
+
+
+
+
+solutions:
+/*
+class Node{
+    int data;
+    Node left, right;
+    Node(int d){
+        data=d;
+        left=right=null;
+    }
+}
+*/
+
+class Solution {
+    // Global variable to store the maximum path sum found anywhere in the tree.
+    // Initialize it to the smallest possible value.
+    private int maxSum = Integer.MIN_VALUE;
+
+    /**
+     * Finds the maximum path sum in the entire binary tree.
+     * @param root The root node of the binary tree.
+     * @return The maximum path sum.
+     */
+    int findMaxSum(Node root) {
+        if (root == null) {
+            return 0; // A null tree has a path sum of 0 for this function.
+        }
+        // Reset maxSum for a new test case if the Solution object is reused.
+        maxSum = Integer.MIN_VALUE; 
+        
+        // Start the recursive DFS from the root.
+        // We only care about the side effects on the 'maxSum' variable.
+        maxPathDown(root);
+        
+        return maxSum;
+    }
+
+    /**
+     * Recursive helper function that calculates:
+     * 1. The maximum single-branch path sum rooted at the current node (returned value).
+     * 2. The maximum V-shaped path sum through the current node (updates maxSum).
+     * * @param node The current node.
+     * @return The maximum single-branch path sum extending from the node downwards.
+     */
+    private int maxPathDown(Node node) {
+        if (node == null) {
+            return 0;
+        }
+
+        // Recursively find the maximum path sum from the left and right children.
+        // We take max(0, result) because if the sum is negative, we'd rather start
+        // a new path from the current node's data (effectively ignoring that branch).
+        int leftMax = Math.max(0, maxPathDown(node.left));
+        int rightMax = Math.max(0, maxPathDown(node.right));
+
+        // 1. Calculate the maximum path sum *through* the current node (V-shaped path).
+        // This path CANNOT be extended to the parent, but it might be the global maximum.
+        int currentPathSum = node.data + leftMax + rightMax;
+        
+        // Update the global maximum path sum found so far.
+        maxSum = Math.max(maxSum, currentPathSum);
+
+        // 2. Return the maximum *single-branch* path sum rooted at the current node.
+        // This is the path that CAN be extended to the parent node.
+        return node.data + Math.max(leftMax, rightMax);
+    }
+}
