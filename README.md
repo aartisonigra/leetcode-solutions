@@ -252,3 +252,5 @@
 |2025-10-09 | (https://leetcode.com/problems/find-the-minimum-amount-of-time-to-brew-potions/?envType=daily-question&envId=2025-10-09)
 
 |2025-10-11 | (https://www.geeksforgeeks.org/problems/maximum-path-sum-from-any-node/1)
+
+|2025-10-13 | (https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/?envType=daily-question&envId=2025-10-13)
