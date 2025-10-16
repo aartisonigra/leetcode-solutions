@@ -256,3 +256,5 @@
 |2025-10-13 | (https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/?envType=daily-question&envId=2025-10-13)
 
 |2025-10-14 | (https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i/)
+
+|2025-10-16 | (https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/)
