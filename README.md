@@ -258,3 +258,5 @@
 |2025-10-14 | (https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i/)
 
 |2025-10-16 | (https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/)
+
+|2025-10-17 | (https://leetcode.com/problems/letter-combinations-of-a-phone-number/?envType=study-plan-v2&envId=leetcode-75)
