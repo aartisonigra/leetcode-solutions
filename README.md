@@ -262,3 +262,5 @@
 |2025-10-17 | (https://leetcode.com/problems/letter-combinations-of-a-phone-number/?envType=study-plan-v2&envId=leetcode-75)
 
 |2025-10-18 | (https://leetcode.com/problems/maximum-number-of-distinct-elements-after-operations/)
+
+|2025-10-19 | (https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/)
