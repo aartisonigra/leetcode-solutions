@@ -266,3 +266,5 @@
 |2025-10-19 | (https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/)
 
 |2025-10-20 | (https://leetcode.com/problems/final-value-of-variable-after-performing-operations/?envType=daily-question&envId=2025-10-20)
+
+|2025-10-21 | (https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-i/?envType=daily-question&envId=2025-10-21)
