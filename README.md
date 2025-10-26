@@ -270,3 +270,5 @@
 |2025-10-21 | (https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-i/?envType=daily-question&envId=2025-10-21)
 
 |2025-10-23 | (https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i/?envType=daily-question&envId=2025-10-23)
+
+|2025-10-26 | (https://leetcode.com/problems/simple-bank-system/?envType=daily-question&envId=2025-10-)
