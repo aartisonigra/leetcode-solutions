@@ -272,3 +272,5 @@
 |2025-10-23 | (https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i/?envType=daily-question&envId=2025-10-23)
 
 |2025-10-26 | (https://leetcode.com/problems/simple-bank-system/?envType=daily-question&envId=2025-10-)
+
+|2025-10-28 | (https://leetcode.com/problems/make-array-elements-equal-to-zero/
