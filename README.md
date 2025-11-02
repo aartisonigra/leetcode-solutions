@@ -282,3 +282,5 @@
 |2025-10-31 | (https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/?envType=daily-question&envId=2025-10-31)
 
 |2025-11-01 | (https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/)
+
+|2025-11-02 | (https://leetcode.com/problems/count-unguarded-cells-in-the-grid/)
