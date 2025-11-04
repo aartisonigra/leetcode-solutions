@@ -285,4 +285,6 @@
 
 |2025-11-02 | (https://leetcode.com/problems/count-unguarded-cells-in-the-grid/)
 
-|2026-11-03 | (https://leetcode.com/problems/minimum-time-to-make-rope-colorful/)
+|2025-11-03 | (https://leetcode.com/problems/minimum-time-to-make-rope-colorful/)
+
+|2025-11-04 | (https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/)
