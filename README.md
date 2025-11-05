@@ -288,3 +288,5 @@
 |2025-11-03 | (https://leetcode.com/problems/minimum-time-to-make-rope-colorful/)
 
 |2025-11-04 | (https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/)
+
+|2025-11-05 | (https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-ii/)
