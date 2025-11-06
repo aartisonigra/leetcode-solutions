@@ -290,3 +290,5 @@
 |2025-11-04 | (https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/)
 
 |2025-11-05 | (https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-ii/)
+
+|2025-11-06  | (https://leetcode.com/problems/power-grid-maintenance/?envType=daily-question&envId=2025-11-06)
