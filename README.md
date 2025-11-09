@@ -294,3 +294,5 @@
 |2025-11-06  | (https://leetcode.com/problems/power-grid-maintenance/?envType=daily-question&envId=2025-11-06)
 
 |2025-11-08 | (https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/?envType=daily-question&envId=2025-11-08)
+
+|2025-11-09 | (https://leetcode.com/problems/count-operations-to-obtain-zero/)
