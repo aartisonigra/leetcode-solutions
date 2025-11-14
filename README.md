@@ -298,3 +298,5 @@
 |2025-11-09 | (https://leetcode.com/problems/count-operations-to-obtain-zero/)
 
 |2025-11-10 | (https://leetcode.com/problems/minimum-operations-to-convert-all-elements-to-zero/)
+
+|2025-11-14 | (https://leetcode.com/problems/increment-submatrices-by-one/?envType=daily-question&envId=2025-11-14)
