@@ -304,3 +304,5 @@
 |2025-11-17 | (https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/?envType=daily-question&envId=2025-11-17)
 
 |2025-11-18 | (https://leetcode.com/problems/1-bit-and-2-bit-characters/)
+
+|2025-11-19 | (https://leetcode.com/problems/keep-multiplying-found-values-by-two/?envType=daily-question&envId=2025-11-19)
