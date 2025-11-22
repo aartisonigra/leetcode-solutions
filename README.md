@@ -310,3 +310,5 @@
 |2025-11-20 | (https://leetcode.com/problems/set-intersection-size-at-least-two/)
 
 |2025-11-21 | (https://leetcode.com/problems/unique-length-3-palindromic-subsequences/)
+
+|2025-11-22 | (https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/)
