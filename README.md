@@ -314,3 +314,5 @@
 |2025-11-22 | (https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/)
 
 |2025-11-23 | (https://leetcode.com/problems/greatest-sum-divisible-by-three/)
+
+|2025-11-24 | (https://leetcode.com/problems/binary-prefix-divisible-by-5/)
