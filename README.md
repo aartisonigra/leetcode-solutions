@@ -316,3 +316,5 @@
 |2025-11-23 | (https://leetcode.com/problems/greatest-sum-divisible-by-three/)
 
 |2025-11-24 | (https://leetcode.com/problems/binary-prefix-divisible-by-5/)
+
+|2025-11-25 | (https://leetcode.com/problems/smallest-integer-divisible-by-k/?envType=daily-question&envId=2025-11-25)
