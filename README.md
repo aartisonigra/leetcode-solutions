@@ -322,3 +322,5 @@
 |2025-11-27 | (https://leetcode.com/problems/maximum-subarray-sum-with-length-divisible-by-k/?envType=daily-question&envId=2025-11-27)
 
 |2025-11-29 | (https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/)
+
+|2025-12-01 | (https://leetcode.com/problems/maximum-running-time-of-n-computers/?envType=daily-question&envId=2025-12-01)
