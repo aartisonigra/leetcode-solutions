@@ -324,3 +324,5 @@
 |2025-11-29 | (https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/)
 
 |2025-12-01 | (https://leetcode.com/problems/maximum-running-time-of-n-computers/?envType=daily-question&envId=2025-12-01)
+
+|2025-12-02 | (https://leetcode.com/problems/count-number-of-trapezoids-i/)
