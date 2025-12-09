@@ -328,3 +328,5 @@
 |2025-12-02 | (https://leetcode.com/problems/count-number-of-trapezoids-i/)
 
 |2025-12-08 | (https://leetcode.com/problems/count-square-sum-triples/)
+
+|2025-12-09 | (https://leetcode.com/problems/count-special-triplets/)
