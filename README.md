@@ -330,3 +330,5 @@
 |2025-12-08 | (https://leetcode.com/problems/count-square-sum-triples/)
 
 |2025-12-09 | (https://leetcode.com/problems/count-special-triplets/)
+
+|2025-12-10 | (https://leetcode.com/problems/count-the-number-of-computer-unlocking-permutations/)
