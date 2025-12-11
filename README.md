@@ -332,3 +332,5 @@
 |2025-12-09 | (https://leetcode.com/problems/count-special-triplets/)
 
 |2025-12-10 | (https://leetcode.com/problems/count-the-number-of-computer-unlocking-permutations/)
+
+|2025-12-11 | ( https://leetcode.com/problems/count-covered-buildings/?envType=daily-question&envId=2025-12-11)
