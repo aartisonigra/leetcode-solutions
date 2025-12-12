@@ -334,3 +334,5 @@
 |2025-12-10 | (https://leetcode.com/problems/count-the-number-of-computer-unlocking-permutations/)
 
 |2025-12-11 | ( https://leetcode.com/problems/count-covered-buildings/?envType=daily-question&envId=2025-12-11)
+
+|2025-12-12 | (https://leetcode.com/problems/count-mentions-per-user/?envType=daily-question&envId=2025-12-12)
