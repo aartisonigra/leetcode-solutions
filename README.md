@@ -336,3 +336,5 @@
 |2025-12-11 | ( https://leetcode.com/problems/count-covered-buildings/?envType=daily-question&envId=2025-12-11)
 
 |2025-12-12 | (https://leetcode.com/problems/count-mentions-per-user/?envType=daily-question&envId=2025-12-12)
+
+|2025-12-15 | (https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/?envType=daily-question&envId=2025-12-15)
