@@ -342,3 +342,5 @@
 |2025-12-16 | (https://leetcode.com/problems/maximum-profit-from-trading-stocks-with-discounts/?envType=daily-question&envId=2025-12-16)
 
 |2025-12-17 | (https://leetcode.com/problems/best-time-to-buy-and-sell-stock-v/)
+
+|2025-12-18 | (https://leetcode.com/problems/best-time-to-buy-and-sell-stock-using-strategy/)
