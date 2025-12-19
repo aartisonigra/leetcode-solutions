@@ -344,3 +344,5 @@
 |2025-12-17 | (https://leetcode.com/problems/best-time-to-buy-and-sell-stock-v/)
 
 |2025-12-18 | (https://leetcode.com/problems/best-time-to-buy-and-sell-stock-using-strategy/)
+
+|2025-12-19 | (https://leetcode.com/problems/find-all-people-with-secret/?envType=daily-question&envId=2025-12-19)
