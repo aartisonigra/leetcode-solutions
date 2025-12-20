@@ -346,3 +346,5 @@
 |2025-12-18 | (https://leetcode.com/problems/best-time-to-buy-and-sell-stock-using-strategy/)
 
 |2025-12-19 | (https://leetcode.com/problems/find-all-people-with-secret/?envType=daily-question&envId=2025-12-19)
+
+|2025-12-20 | (https://leetcode.com/problems/delete-columns-to-make-sorted/?envType=daily-question&envId=2025-12-20)
