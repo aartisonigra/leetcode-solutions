@@ -348,3 +348,5 @@
 |2025-12-19 | (https://leetcode.com/problems/find-all-people-with-secret/?envType=daily-question&envId=2025-12-19)
 
 |2025-12-20 | (https://leetcode.com/problems/delete-columns-to-make-sorted/?envType=daily-question&envId=2025-12-20)
+
+|2025-12-23 | (https://leetcode.com/problems/two-best-non-overlapping-events/)
