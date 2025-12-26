@@ -353,3 +353,5 @@
 |2025-12-23 | (https://leetcode.com/problems/two-best-non-overlapping-events/)
 
 |2025-12-24 | (https://leetcode.com/problems/apple-redistribution-into-boxes/)
+
+|2025-12-26 | (https://leetcode.com/problems/minimum-penalty-for-a-shop/)
