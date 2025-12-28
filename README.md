@@ -357,3 +357,5 @@
 |2025-12-26 | (https://leetcode.com/problems/minimum-penalty-for-a-shop/)
 
 |2025-12-27 | (https://leetcode.com/problems/meeting-rooms-iii/?envType=daily-question&envId=2025-12-27)
+
+|2025-12-28 | (https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)
