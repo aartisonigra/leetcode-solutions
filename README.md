@@ -361,3 +361,5 @@
 |2025-12-28 | (https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)
 
 |2025-12-29 | (https://leetcode.com/problems/pyramid-transition-matrix/?envType=daily-question&envId=2025-12-29)
+
+|2025-12-30 | (https://leetcode.com/problems/magic-squares-in-grid/)
