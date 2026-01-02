@@ -363,3 +363,5 @@
 |2025-12-29 | (https://leetcode.com/problems/pyramid-transition-matrix/?envType=daily-question&envId=2025-12-29)
 
 |2025-12-30 | (https://leetcode.com/problems/magic-squares-in-grid/)
+
+|2025-01-02 | (https://leetcode.com/problems/n-repeated-element-in-size-2n-array/?envType=daily-question&envId=2026-01-02)
