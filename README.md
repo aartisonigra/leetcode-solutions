@@ -367,3 +367,5 @@
 |2025-01-02 | (https://leetcode.com/problems/n-repeated-element-in-size-2n-array/?envType=daily-question&envId=2026-01-02)
 
 |2025-01-03 | (https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/)
+
+|2025-01-04 | (https://leetcode.com/problems/four-divisors/)
