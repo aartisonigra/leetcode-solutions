@@ -369,3 +369,5 @@
 |2025-01-03 | (https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/)
 
 |2025-01-04 | (https://leetcode.com/problems/four-divisors/)
+
+|2025-01-05 | (https://leetcode.com/problems/maximum-matrix-sum/?envType=daily-question&envId=2026-01-05)
