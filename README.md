@@ -371,3 +371,5 @@
 |2025-01-04 | (https://leetcode.com/problems/four-divisors/)
 
 |2025-01-05 | (https://leetcode.com/problems/maximum-matrix-sum/?envType=daily-question&envId=2026-01-05)
+
+|2025-01-06 | (https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)
