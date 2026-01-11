@@ -377,3 +377,5 @@
 |2025-01-08 | (https://leetcode.com/problems/max-dot-product-of-two-subsequences/)
 
 |2025-01-10 | (https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/?envType=daily-question&envId=2026-01-10)
+
+|2025-01-11 | (https://leetcode.com/problems/maximal-rectangle/)
