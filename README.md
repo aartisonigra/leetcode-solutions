@@ -381,3 +381,5 @@
 |2025-01-11 | (https://leetcode.com/problems/maximal-rectangle/)
 
 |2025-01-12 | (https://leetcode.com/problems/minimum-time-visiting-all-points/?envType=daily-question&envId=2026-01-12)
+
+|2025-01-12 | (https://leetcode.com/problems/minimum-time-visiting-all-points/?envType=daily-question&envId=2026-01-12)
