@@ -387,3 +387,5 @@
 |2025-01-13 | (https://leetcode.com/problems/separate-squares-i/)
 
 |2025-01-14 | (https://leetcode.com/problems/separate-squares-ii/)
+
+|2025-01-15 | (https://leetcode.com/problems/maximize-area-of-square-hole-in-grid/?envType=daily-question&envId=2026-01-15)
