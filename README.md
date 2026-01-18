@@ -391,3 +391,5 @@
 |2025-01-15 | (https://leetcode.com/problems/maximize-area-of-square-hole-in-grid/?envType=daily-question&envId=2026-01-15)
 
 |2025-01-16 | (https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field/)
+
+|2025-01-18 | (https://leetcode.com/problems/largest-magic-square/?envType=daily-question&envId=2026-01-18)
