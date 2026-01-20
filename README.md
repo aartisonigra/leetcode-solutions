@@ -395,3 +395,5 @@
 |2025-01-18 | (https://leetcode.com/problems/largest-magic-square/?envType=daily-question&envId=2026-01-18)
 
 |2025-01-19 | (https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/)
+
+|2025-01-20 | (https://leetcode.com/problems/construct-the-minimum-bitwise-array-i/)
