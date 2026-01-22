@@ -399,3 +399,5 @@
 |2025-01-20 | (https://leetcode.com/problems/construct-the-minimum-bitwise-array-i/)
 
 |2025-01-21 | (https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii/)
+
+|2025-01-22 | (https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/)
