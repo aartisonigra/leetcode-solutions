@@ -403,3 +403,5 @@
 |2025-01-22 | (https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/)
 
 |2025-01-23 | (https://leetcode.com/problems/minimum-pair-removal-to-sort-array-ii/?envType=daily-question&envId=2026-01-23)
+
+|2025-01-24 | (https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/)
