@@ -409,3 +409,5 @@
 |2025-01-25 | (https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/)
 
 |2025-01-26 | (https://leetcode.com/problems/minimum-absolute-difference/)
+
+|2025-01-28 | (https://leetcode.com/problems/minimum-cost-path-with-teleportations/?envType=daily-question&envId=2026-01-28)
