@@ -411,3 +411,5 @@
 |2025-01-26 | (https://leetcode.com/problems/minimum-absolute-difference/)
 
 |2025-01-28 | (https://leetcode.com/problems/minimum-cost-path-with-teleportations/?envType=daily-question&envId=2026-01-28)
+
+|2025-01-29 | (https://leetcode.com/problems/minimum-cost-to-convert-string-i/)
