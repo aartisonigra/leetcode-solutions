@@ -415,3 +415,5 @@
 |2025-01-29 | (https://leetcode.com/problems/minimum-cost-to-convert-string-i/)
 
 |2025-01-30 | (https://leetcode.com/problems/minimum-cost-to-convert-string-ii/)
+
+|2025-01-31 | (https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
