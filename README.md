@@ -419,3 +419,5 @@
 |2025-01-31 | (https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
 
 |2025-02-01 | (https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/)
+
+|2025-02-02 | (https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii/)
