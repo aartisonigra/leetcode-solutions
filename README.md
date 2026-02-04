@@ -421,3 +421,5 @@
 |2025-02-01 | (https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/)
 
 |2025-02-02 | (https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii/)
+
+|2025-02-04 | (https://leetcode.com/problems/trionic-array-ii/?envType=daily-question&envId=2026-02-04)
