@@ -425,3 +425,5 @@
 |2025-02-04 | (https://leetcode.com/problems/trionic-array-ii/?envType=daily-question&envId=2026-02-04)
 
 |2025-02-05 | (https://leetcode.com/problems/transformed-array/)
+
+|2025-02-06 | (https://leetcode.com/problems/minimum-removals-to-balance-array/?envType=daily-question&envId=2026-02-06)
