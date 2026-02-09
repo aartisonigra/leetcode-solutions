@@ -429,3 +429,5 @@
 |2025-02-06 | (https://leetcode.com/problems/minimum-removals-to-balance-array/?envType=daily-question&envId=2026-02-06)
 
 |2025-02-07 | (https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/)
+
+|2025-02-09 | (https://leetcode.com/problems/balance-a-binary-search-tree/)
