@@ -437,3 +437,5 @@
 |2025-02-11 | (https://leetcode.com/problems/longest-balanced-subarray-ii/?envType=daily-question&envId=2026-02-11)
 
 |2025-02-12 | (https://leetcode.com/problems/longest-balanced-substring-i/)
+
+|2025-02-13 | (https://leetcode.com/problems/longest-balanced-substring-ii/?envType=daily-question&envId=2026-02-13)
