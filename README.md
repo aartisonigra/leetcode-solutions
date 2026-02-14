@@ -439,3 +439,5 @@
 |2025-02-12 | (https://leetcode.com/problems/longest-balanced-substring-i/)
 
 |2025-02-13 | (https://leetcode.com/problems/longest-balanced-substring-ii/?envType=daily-question&envId=2026-02-13)
+
+|2025-02-14 | (https://leetcode.com/problems/champagne-tower/)
