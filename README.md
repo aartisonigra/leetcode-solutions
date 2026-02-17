@@ -443,3 +443,5 @@
 |2025-02-14 | (https://leetcode.com/problems/champagne-tower/)
 
 |2025-02-15 | (https://leetcode.com/problems/add-binary/?envType=daily-question&envId=2026-02-15)
+
+|2025-02-17 | (https://leetcode.com/problems/binary-watch/)
