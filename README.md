@@ -445,3 +445,5 @@
 |2025-02-15 | (https://leetcode.com/problems/add-binary/?envType=daily-question&envId=2026-02-15)
 
 |2025-02-17 | (https://leetcode.com/problems/binary-watch/)
+
+|2025-02-18 | (https://leetcode.com/problems/binary-number-with-alternating-bits/)
