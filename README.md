@@ -447,3 +447,5 @@
 |2025-02-17 | (https://leetcode.com/problems/binary-watch/)
 
 |2025-02-18 | (https://leetcode.com/problems/binary-number-with-alternating-bits/)
+
+|2025-02-19 | (https://leetcode.com/problems/count-binary-substrings/?envType=daily-question&envId=2026-02-19)
