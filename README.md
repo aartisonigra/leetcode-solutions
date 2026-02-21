@@ -451,3 +451,5 @@
 |2025-02-19 | (https://leetcode.com/problems/count-binary-substrings/?envType=daily-question&envId=2026-02-19)
 
 |2025-02-20 | (https://leetcode.com/problems/special-binary-string/)
+
+|2025-02-21 | (https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/?envType=daily-question&envId=2026-02-21)
